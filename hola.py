@@ -1,1 +1,7 @@
-print("holamundo") 
+print("    * ")
+print("   *** ")
+print("  ***** ")
+print(" ******* ")
+print("  ***** ")
+print("   *** ")
+print("    * ")
